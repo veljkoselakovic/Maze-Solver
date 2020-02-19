@@ -4,3 +4,5 @@ Implementation of an idea discussed in a Computerphile video. Solve an NxN maze 
 
 ![Starting maze](https://github.com/veljkoselakovic/Maze-Solver/blob/master/128.bmp)
 ![Solved maze](https://github.com/veljkoselakovic/Maze-Solver/blob/master/128reseno.png)
+![Starting maze 512](https://github.com/veljkoselakovic/Maze-Solver/blob/master/512.bmp)
+![Solved maze 512](https://github.com/veljkoselakovic/Maze-Solver/blob/master/512reseno.png)
